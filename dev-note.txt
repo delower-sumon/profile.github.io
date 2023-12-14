@@ -1,0 +1,4 @@
+trim unused spaces
+
+change header font
+add effect to header on hover
